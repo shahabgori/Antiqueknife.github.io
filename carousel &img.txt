@@ -1,0 +1,39 @@
+<article class="portfolio-item pf-icons pf-illustrations">
+							<div class="portfolio-image">
+								<div class="fslider" data-arrows="false" data-speed="400" data-pause="4000">
+									<div class="flexslider">
+										<div class="slider-wrap">
+											<div class="slide"><a href="FB_IMG_1649054937920.jpg"><img src="FB_IMG_1649054937920.jpg" alt="Morning Dew" style="height: 200px;"></a></div>
+											<div class="slide"><a href="FB_IMG_1649054937920.jpg"><img src="FB_IMG_1649055026769.jpg" alt="Morning Dew" style="height: 200px;"></a></div>
+										</div>
+									</div>
+								</div>
+								<div class="portfolio-overlay" data-lightbox="gallery">
+									<a href="FB_IMG_1649054937920.jpg" class="left-icon" data-lightbox="gallery-item"><i class="icon-line-stack-2"></i></a>
+									<a href="FB_IMG_1649055026769.jpg" class="hidden" data-lightbox="gallery-item"></a>
+									<a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+								</div>
+							</div>
+
+
+
+
+
+
+
+
+img
+
+
+
+
+<article class="portfolio-item pf-uielements pf-media">
+							<div class="portfolio-image">
+								<a href="#">
+									<img src="FB_IMG_1649053024640.jpg" alt="Console Activity" style="height: 200px;">
+								</a>
+								<div class="portfolio-overlay">
+									<a href="FB_IMG_1649053024640.jpg" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+									<a href="#" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+								</div>
+							</div>
